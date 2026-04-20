@@ -35,7 +35,3 @@ sudo apt install gcc clang \
 
 > awesome-niri https://github.com/niri-wm/awesome-niri
 
-### Showcase
-
-![My Niri Setup](https://github.com/Agi0m/niri-mint/blob/main/My%20Niri%20Setup.png "Preview")
-
