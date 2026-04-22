@@ -19,11 +19,11 @@ sudo apt install gcc clang \
 
 ## On the clone repo we have to move some files to in order to make niri work properly
 
-``` sudo cp resources/niri-session /usr/local/bin/ ```
-``` sudo cp resources/niri.desktop /usr/share/wayland-sessions/ ```
-``` sudo cp resources/niri-portals.conf /usr/local/share/xdg-desktop-portal/ ```
-``` sudo cp resources/niri.service /etc/systemd/user/ ```
-``` sudo cp resources/niri-shutdown.target /etc/systemd/user/ ```
+* ``` sudo cp resources/niri-session /usr/local/bin/ ```
+* ``` sudo cp resources/niri.desktop /usr/share/wayland-sessions/ ```
+* ``` sudo cp resources/niri-portals.conf /usr/local/share/xdg-desktop-portal/ ```
+* ``` sudo cp resources/niri.service /etc/systemd/user/ ```
+* ``` sudo cp resources/niri-shutdown.target /etc/systemd/user/ ```
 
 
 ### Hope it is useful 
