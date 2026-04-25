@@ -1,6 +1,7 @@
 
 # Pre-compiled binary for niri intented to be one click install for Linux Mint 22.3 in mind
 
+
 ## Steps of compiling
 * ```git clone https://github.com/niri-wm/niri.git```
 * ```cargo install cargo-deb```
